@@ -1,5 +1,7 @@
 ### Hi there 
-- I’m currently working on bootcamp at Enspiral Dev Academy
+- 🌱 I’ve finished bootcamp through EDA!
+- I'm currently looking for full time work
+- 📫 How to reach me: aaron@hotmail.co.nz
 <!--
 **cherrycrush/cherrycrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
