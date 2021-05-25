@@ -1,7 +1,10 @@
-### Hi there 
+### Hello!
 - 🌱 I’ve finished bootcamp through EDA!
 - I'm currently looking for full time work
 - 📫 How to reach me: aaron@hotmail.co.nz
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycrush)](https://github.com/cherrycrush/github-readme-stats)
+
 <!--
 **cherrycrush/cherrycrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
