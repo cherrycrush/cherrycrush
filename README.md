@@ -1,7 +1,7 @@
 ### Hello!
 - 🌱 I’ve finished bootcamp through EDA!
 - I'm currently looking for full time work
-- 📫 How to reach me: aaron@hotmail.co.nz
+- 📫 Reach me @ aaron@hotmail.co.nz
 
 ### GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cherrycrush)](https://github.com/anuraghazra/github-readme-stats)
