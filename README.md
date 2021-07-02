@@ -1,5 +1,4 @@
-### Hello!
-- 🌱 I’ve finished bootcamp through EDA!
+### Hello
 - I'm currently looking for full time work
 - 📫 Reach me @ aaron@hotmail.co.nz
 
